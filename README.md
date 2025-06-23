@@ -55,7 +55,3 @@ This project focuses on cleaning and preprocessing a real-world dataset from Net
 | `README.md` | Project overview and documentation |
 
 ---
-
-##  Submission
-
-This repository was created and submitted as part of Elevate Labs’ internship task on [DATE].  
